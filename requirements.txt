@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+textblob
+googletrans==4.0.0-rc1 (unofficial library, use with caution)
+json
